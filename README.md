@@ -1,1 +1,1 @@
-# studing_fulladders_in-4-bit_vedicmutiplier
+# study_of_fulladders_in-4-bit_vedicmutiplier
